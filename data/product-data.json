@@ -1,0 +1,106 @@
+{
+  "id": "P12345",
+  "name": "Wireless Bluetooth Headphones",
+  "category": "Electronics",
+  "brand": "TechGuru",
+  "price": 99.99,
+  "currency": "USD",
+  "description": "Experience high-quality sound and comfort with our Wireless Bluetooth Headphones. With a long-lasting battery life and noise-cancellation technology, these headphones are perfect for music lovers and professionals alike.",
+  "features": [
+    "Bluetooth 5.0",
+    "Active Noise Cancellation",
+    "Up to 20 hours of battery life",
+    "Comfortable over-ear design"
+  ],
+  "images": [
+    {
+      "url": "https://example.com/images/headphones_main.jpg",
+      "alt": "Wireless Bluetooth Headphones - Main Image"
+    },
+    {
+      "url": "https://example.com/images/headphones_side.jpg",
+      "alt": "Wireless Bluetooth Headphones - Side View"
+    }
+  ],
+  "stock": 50,
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author": "John Doe",
+      "rating": 5,
+      "comment": "Great headphones! The sound quality is amazing and they're very comfortable to wear."
+    },
+    {
+      "author": "Jane Smith",
+      "rating": 4,
+      "comment": "Good headphones, but the noise cancellation could be better."
+    }
+  ]
+}
+
+{
+  "id": "P12345",
+  "name": "Wireless Bluetooth Headphones",
+  "category": "Electronics",
+  "subCategory": "Audio",
+  "brand": "TechGuru",
+  "price": 45000,
+  "currency": "NGN",
+  "description": "Experience high-quality sound and comfort with our Wireless Bluetooth Headphones. With a long-lasting battery life and noise-cancellation technology, these headphones are perfect for music lovers and professionals alike.",
+  "features": [
+    "Bluetooth 5.0",
+    "Active Noise Cancellation",
+    "Up to 20 hours of battery life",
+    "Comfortable over-ear design"
+  ],
+  "specifications": {
+    "connectivity": "Bluetooth, 3.5mm audio jack",
+    "batteryLife": "20 hours",
+    "chargingTime": "2 hours",
+    "weight": "250g",
+    "color": "Black"
+  },
+  "images": [
+    {
+      "url": "https://example.com/images/headphones_main.jpg",
+      "alt": "Wireless Bluetooth Headphones - Main Image"
+    },
+    {
+      "url": "https://example.com/images/headphones_side.jpg",
+      "alt": "Wireless Bluetooth Headphones - Side View"
+    }
+  ],
+  "stock": 50,
+  "rating": 4.5,
+  "reviews": [
+    {
+      "author": "John Doe",
+      "rating": 5,
+      "comment": "Great headphones! The sound quality is amazing and they're very comfortable to wear."
+    },
+    {
+      "author": "Jane Smith",
+      "rating": 4,
+      "comment": "Good headphones, but the noise cancellation could be better."
+    }
+  ],
+  "shipping": {
+    "freeShipping": true,
+    "estimatedDelivery": "3-5 business days",
+    "shipsFrom": "Lagos, Nigeria"
+  },
+  "returnPolicy": {
+    "days": 7,
+    "conditions": "Item must be in original packaging and unused"
+  },
+  "seller": {
+    "id": "S67890",
+    "name": "Gadget Store",
+    "rating": 4.7,
+    "location": "Lagos, Nigeria"
+  },
+  "discount": {
+    "percentage": 10,
+    "validUntil": "2023-06-30"
+  }
+}

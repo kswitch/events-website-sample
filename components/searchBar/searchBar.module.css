@@ -1,0 +1,29 @@
+.container {
+    margin: 2rem auto 3rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+    padding: 0.5rem 1rem;
+    gap: 10px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.304);
+}
+.dropDownMenu {
+    background-color: whitesmoke;
+    padding: 0.5rem;
+    outline: none;
+    color: black;
+    border-radius: 5px;
+    width: 150px;
+}
+.btn {
+    padding: 0.8rem 1.5rem;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(97, 179, 97);
+}

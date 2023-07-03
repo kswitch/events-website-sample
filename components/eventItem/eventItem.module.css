@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  /* align-items: center; */
+  background-color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.304);
+  margin: 1rem 0;
+  color: black;
+}
+
+.image {
+  display: block;
+  width: 180px;
+  height: 180px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.eventDetails {
+    padding: 0.5rem 1rem;
+    width: 400px;
+}
+.eventName {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.eventDate {
+    font-weight: bold;
+}
+.eventLocation {
+    font-weight: normal;
+}
+
+.btnDiv {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    margin-top: 2.5rem;
+    padding: 0.8rem 1.5rem;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(97, 179, 97);
+}
